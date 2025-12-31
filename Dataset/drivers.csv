@@ -1,0 +1,11 @@
+driver_id,name,region,experience_year,city,country
+1,Driver 1,East,1,London,United Kingdom
+2,Driver 2,West,3,Paris,France
+3,Driver 3,North,2,Berlin,Germany
+4,Driver 4,South,5,Madrid,Spain
+5,Driver 5,Central,4,Rome,Italy
+6,Driver 6,East,6,Amsterdam,Netherlands
+7,Driver 7,West,7,Vienna,Austria
+8,Driver 8,North,2,Prague,Czech Republic
+9,Driver 9,South,3,Copenhagen,Denmark
+10,Driver 10,Central,1,Stockholm,Sweden
